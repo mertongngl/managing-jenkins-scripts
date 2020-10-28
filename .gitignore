@@ -1,0 +1,4 @@
+venv/
+jenkins-*
+*.txt
+config.json
